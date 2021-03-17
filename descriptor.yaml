@@ -1,0 +1,13 @@
+code: mysqlmarch17-bundle
+description: This is the mysqlmarch17 bundle
+
+components:
+  plugins:
+    - plugins/mysqlmarch17-plugin.yaml
+
+  widgets:
+    - ui/widgets/cars/tableWidget/cars-table-widget-descriptor.yaml
+    - ui/widgets/cars/detailsWidget/cars-details-widget-descriptor.yaml
+    - ui/widgets/cars/formWidget/cars-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

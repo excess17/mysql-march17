@@ -1,0 +1,6 @@
+code: cars-table-widget
+titles:
+  en: Cars Table Widget
+  it: Cars Table Widget
+group: free
+customUiPath: cars-table-widget.ftl
